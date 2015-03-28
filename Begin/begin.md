@@ -4,7 +4,7 @@
 ## 下载OpenCV
 
 
-下载[OpenCV3.0 for Windwos](http://opencv.org/downloads.html)
+下载[OpenCV3.0 for Windows](http://opencv.org/downloads.html)
 
 ## 配置OpenCV
 
