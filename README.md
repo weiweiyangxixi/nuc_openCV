@@ -4,6 +4,8 @@
 
 课程根据知识类别划分，每分课程都会配备相关的阅读，练习和思考题，希望能在学习中给予一定帮助和指导
 
+*PS:每章学习结束后上传作业答案至你的repo*
+
 ##内容
 
 ### 基础
@@ -17,9 +19,20 @@
  
 ### OpenCV 概述
 
- - 阅读[OpenCV概述](OverView/opencv_overview.md),回答问题并上传至自己的repo
+ - 阅读[OpenCV概述](OverView/opencv_overview.md),回答相关问题
  
-### OpenCV入门
+### OpenCV 入门
 
 - 下载[Visual Studio 2013](http://msdn.itellyou.cn/)并安装
 - 阅读[如何安装OpenCV](Begin/begin.md)并完成相应问题
+
+### OpenCV 数据结构与基本绘图
+
+- 阅读[OpenCV数据结构与基本绘图](OpenCVLean/opencvlean.md)并完成相应问题
+- 创建一个issue来对自己不了解的地方发起讨论
+
+### OpenCV core 组建进阶
+
+- coming soon
+
+

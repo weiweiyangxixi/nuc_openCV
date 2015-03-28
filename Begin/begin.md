@@ -34,3 +34,5 @@ int main( int argc, char** argv ) {
 ```
 这段代码可以运行么，可以运行的话它的作用是什么，不能的话原因是什么
 
+5.请说说imread和cvLoadImage有什么区别，这么设计的意义是什么
+
