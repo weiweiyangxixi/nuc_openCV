@@ -28,7 +28,7 @@
 
 ### OpenCV 数据结构与基本绘图
 
-- 阅读[OpenCV数据结构与基本绘图](OpenCVLean/opencvlean.md)并完成相应问题
+- 阅读[OpenCV数据结构与基本绘图](OpenCVLean/data_structure.md)并完成相应问题
 - 创建一个issue来对自己不了解的地方发起讨论
 
 ### OpenCV core 组建进阶
