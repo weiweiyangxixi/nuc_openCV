@@ -25,7 +25,7 @@ int main( int argc, char** argv ) {
   cvNamedWindow("Example1", CV_WINDOW_AUTOSIZE );
   cvShowImage("Example1", img );
   cvWaitKey(0);
-  cvReleaseImage( &img );
+  cvReleaseImage( &img ); 
   cvDestroyWindow("Example1");
 
 }
