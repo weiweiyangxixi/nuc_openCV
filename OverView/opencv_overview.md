@@ -53,3 +53,4 @@ OpenCV是一个开源的计算机视觉库，包含大量的图形图像处理�
 5 CVAUX即将淘汰以及试验阶段的算法于函数
 6 ML（machine learing~~）包含许多聚类、分类和数据分析函数。如Bayes分类器，K近邻算法，支持向量机，决策树，神经网络等等
 ##[http://s9.sinaimg.cn/middle/68ed8b21hc6ac9e00f298&690]这张图可以直观的表达OPENCV各模块的关系
+###@LKel
