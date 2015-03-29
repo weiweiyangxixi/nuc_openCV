@@ -28,5 +28,28 @@ Codeblocks绝对是我最喜欢的IDE，没有之一(sublime不算IDE)，满满�
 ## 练习题
 
 1.什么是OpenCV
+OpenCV是一个开源的计算机视觉库，包含大量的图形图像处理函数，方便我们进行计算机视觉的程序开发
 
 2.OpenCV基本架构有哪些
+分为6个部分：
+1 CXCORE，他是opencv的一个子库，提供基本的数据结构定义，以及矩阵&数组的基本运算，还有错误处理基本函数[http://blog.csdn.net/wangjie0377/article/details/6629293]有详细的讲解
+   概览：基础结构：CvPoint,CvSize,CvScalar等
+         数组操作：cvCreateImage,cvCreateMat等
+         动态结构：CvMemStorage,CvMemBlock等
+         绘图函数：cvLine,cvRectangle等
+         数据保存和运行时类型信息：CvFileStorage,cvOpenFileStorage等
+         错误处理和系统函数:cvGetErrStatus,cvAlloc,cvFree等
+2 CV[http://blog.csdn.net/wode0239/article/details/8483923]
+   概览：图像处理：cvSobel，cvCanny等
+         结构分析：ContourArea等 :（轮廓分析，轮廓提出等）
+         运动分析与目标跟踪：cvMeanShift等
+         模式识别：CvHaarFeature
+         摄像头定标与三维重建：cvCalibrateCamer2
+3 HighGUI提供图像和视屏的输入输出技术[http://www.cnblogs.com/luluathena/archive/2010/09/29/1838471.html]
+   概览：图像界面函数：cvNamedWindow
+         读图像和保存图像：cvLoadImage，cvSaveImage
+         读视频和写视频：CvCreateFileCapture
+4 CVCAM摄像机接口（已经撤销）
+5 CVAUX即将淘汰以及试验阶段的算法于函数
+6 ML（machine learing~~）包含许多聚类、分类和数据分析函数。如Bayes分类器，K近邻算法，支持向量机，决策树，神经网络等等
+##[http://s9.sinaimg.cn/middle/68ed8b21hc6ac9e00f298&690]这张图可以直观的表达OPENCV各模块的关系
